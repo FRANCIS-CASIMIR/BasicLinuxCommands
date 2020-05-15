@@ -1,0 +1,4 @@
+---------------------- To move the close,minimize andmaximize buttons to the left-------------------------
+     gsettings set org.gnome.desktop.wm.preferences button-layout 'close,maximize,minimize:'
+     -------------------- this can be reverted by------------------------------------------------------------
+     gsettings set org.gnome.desktop.wm.preferences button-layout 'close,maximize,minimize:'
